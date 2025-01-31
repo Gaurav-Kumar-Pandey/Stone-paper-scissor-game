@@ -1,4 +1,4 @@
-### Rock Paper Scissors Game
+# Rock Paper Scissors Game
 📌 Project Description
 This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. The game allows users to play against a computer, with real-time score tracking and an interactive user interface.
 
@@ -21,13 +21,7 @@ CSS for styling
 JavaScript for game logic
 
 
-##📂  Project Structure
 
-📂 Rock-Paper-Scissors/
-├── 📄 index.html   # Main HTML file
-├── 📄 style.css    # Stylesheet for UI design
-├── 📄 script.js    # JavaScript file for game logic
-├── 📂 images/      # Contains game icons (rock, paper, scissors)
 
 
 

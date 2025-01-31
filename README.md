@@ -1,14 +1,16 @@
-Rock Paper Scissors Game
+###Rock Paper Scissors Game
 📌 Project Description
 This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. The game allows users to play against a computer, with real-time score tracking and an interactive user interface.
 
-🚀 Features
+##🚀 Features
 User vs. Computer Gameplay
 Dynamic Scoreboard to track wins and losses
 Interactive UI with images representing choices
 Responsive Design for a seamless experience on all devices
 Randomized Computer Moves for fair play
-🎮 How to Play
+
+
+##🎮 How to Play
 Click on Rock, Paper, or Scissors to make your move.
 The computer will randomly select its move.
 The game will display the result (Win, Lose, or Draw).
@@ -17,7 +19,9 @@ The scores will update accordingly.
 HTML for structure
 CSS for styling
 JavaScript for game logic
-📂 Project Structure
+
+
+##📂 Project Structure
 bash
 Copy
 Edit
